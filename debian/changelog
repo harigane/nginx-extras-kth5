@@ -1,3 +1,9 @@
+nginx (1.14.0-1.0+ubuntu18.04.1+deb.sury.org+1+spiral2) bionic; urgency=medium
+
+  * Add various modules for my own usage 
+
+ -- Alexander Baldeck <kth5@bassment.org>  Fri, 21 Sep 2018 10:54:00 +0800
+
 nginx (1.14.0-2) UNRELEASED; urgency=low
 
   [ Kartik Mistry ]
