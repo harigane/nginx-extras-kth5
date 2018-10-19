@@ -1,0 +1,6 @@
+[submodule "debian/modules/ngx_brotli"]
+	path = debian/modules/ngx_brotli
+	url = https://github.com/google/ngx_brotli.git
+[submodule "debian/modules/nginx_cookie_flag_module"]
+	path = debian/modules/nginx_cookie_flag_module
+	url = https://github.com/AirisX/nginx_cookie_flag_module.git
