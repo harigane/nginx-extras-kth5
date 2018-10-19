@@ -69,7 +69,11 @@ common_configure_flags := \
 			--with-http_v2_module \
 			--with-http_dav_module \
 			--with-http_slice_module \
-			--with-threads
+			--with-threads \
+			--add-module=$(MODULESDIR)/ngx_brotli \
+			--add-module=$(MODULESDIR)/nginx_cookie_flag_module \
+			--add-module=$(MODULESDIR)/ngx_sticky \
+			--add-module=$(MODULESDIR)/nginx-http-rdns
 
 light_configure_flags := \
 			$(common_configure_flags) \
