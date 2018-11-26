@@ -5,8 +5,8 @@
         url = https://github.com/google/ngx_brotli.git
 	path = debian/modules/ngx_brotli
 [submodule "debian/modules/nginx-http-rdns"]
-        path = debian/modules/nginx-http-rdns
-        url = https://github.com/flant/nginx-http-rdns.git
+	path = debian/modules/nginx-http-rdns
+	url = https://github.com/flant/nginx-http-rdns.git
 [submodule "debian/modules/ngx_sticky"]
-        path = debian/modules/ngx_sticky
-        url = https://bitbucket.org/nginx-goodies/nginx-sticky-module-ng/src
+	path = debian/modules/ngx_sticky
+	url = https://bitbucket.org/nginx-goodies/nginx-sticky-module-ng/src
