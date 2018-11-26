@@ -1,7 +1,9 @@
 [submodule "debian/modules/nginx_cookie_flag_module"]
         url = https://github.com/AirisX/nginx_cookie_flag_module.git
+	path = debian/modules/nginx_cookie_flag_module
 [submodule "debian/modules/ngx_brotli"]
         url = https://github.com/google/ngx_brotli.git
+	path = debian/modules/ngx_brotli
 [submodule "debian/modules/nginx-http-rdns"]
         path = debian/modules/nginx-http-rdns
         url = https://github.com/flant/nginx-http-rdns.git
